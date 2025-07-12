@@ -10,7 +10,10 @@
 
 ## 🚀 Sobre Mim
 
-Sou um **Engenheiro de Dados** com sólida trajetória em **Data & Analytics**, formado pela UNICAMP e atualmente cursando pós graduação em Engenharia e Arquitetura de Dados, atuo no desenvolvimento de arquiteturas escaláveis com mais de cinco anos de atuação crescente em projetos de dados e analytics, lidero iniciativas de ponta que vão desde a concepção de pipelines ETL complexos com AWS Glue e Apache Airflow até a entrega de dashboards executivos em Power BI e integrações de APIs. Minha experiência inclui ainda o desenvolvimento de arquiteturas serverless e event-driven para processamento em tempo real, automação de fluxos com Python e SQL, e adoção de práticas de Test‑Driven Development para promover robustez e confiabilidade. Sou movido por desafios de transformar grandes volumes de dados em insights estratégicos e por aprimorar continuamente a qualidade e escalabilidade das plataformas de dados.
+Sou um **Engenheiro de Dados** com sólida trajetória em **Data & Analytics**, formado pela UNICAMP e atualmente cursando pós graduação em Engenharia e Arquitetura de Dados, atuo no desenvolvimento de arquiteturas escaláveis.
+Com mais de cinco anos de atuação crescente em projetos de dados e analytics, lidero iniciativas de automações que vão desde a concepção de pipelines ETL complexos com AWS Glue e Apache Airflow até a entrega de dashboards executivos em Power BI e integrações de APIs.
+Minha experiência inclui ainda o desenvolvimento de arquiteturas serverless e event-driven para processamento em tempo real, automação de fluxos com Python e SQL.
+Sou movido por desafios de transformar grandes volumes de dados em insights estratégicos e por aprimorar continuamente a qualidade e escalabilidade das plataformas de dados.
 
 - 🌱 Estudando **Cloud Computing**, **AI Engineering** e novas abordagens em **Quality Engineering**.
 - 💡 Experiência em arquiteturas **Serverless**, processamento **Real-Time**, **Event-Driven** e **Automações de Processos**.
