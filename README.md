@@ -11,8 +11,11 @@
 ## 🚀 Sobre Mim
 
 Sou um **Engenheiro de Dados** com sólida trajetória em **Data & Analytics**, formado pela UNICAMP e atualmente cursando pós graduação em Engenharia e Arquitetura de Dados, atuo no desenvolvimento de arquiteturas escaláveis.
+
 Com mais de cinco anos de atuação crescente em projetos de dados e analytics, lidero iniciativas de automações que vão desde a concepção de pipelines ETL complexos com AWS Glue e Apache Airflow até a entrega de dashboards executivos em Power BI e integrações de APIs.
+
 Minha experiência inclui ainda o desenvolvimento de arquiteturas serverless e event-driven para processamento em tempo real, automação de fluxos com Python e SQL.
+
 Sou movido por desafios de transformar grandes volumes de dados em insights estratégicos e por aprimorar continuamente a qualidade e escalabilidade das plataformas de dados.
 
 - 🌱 Estudando **Cloud Computing**, **AI Engineering** e novas abordagens em **Quality Engineering**.
@@ -50,19 +53,6 @@ Sou movido por desafios de transformar grandes volumes de dados em insights estr
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nuccig&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuccig&layout=compact&langs_count=7&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuccig&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🏗️ Projetos em Destaque
 
 ### 🌐 [Real-Time Analytics Project](https://github.com/nuccig/real-time-analytics-project)
@@ -85,21 +75,18 @@ Sou movido por desafios de transformar grandes volumes de dados em insights estr
 
 ---
 
-## 🌟 Principais Conquistas
-
-- 🏗️ Mais de **5 projetos** de Data Engineering em produção.
-- ⚡ Arquiteturas **serverless** processando milhões de eventos.
-- 🧪 **100% de cobertura de testes** em pipelines críticos.
-- 📊 Pipelines com **uptime de 99,9%**.
-- 🔄 CI/CD reduzindo o time-to-market em **70%**.
-
----
-
 ## 🎓 Certificações & Conhecimentos
 
-### 🏅 Certificações
-- **R Programmer Track**
-- Em preparação: AWS Certified Solutions Architect & Data Engineer
+### 🏅 **AWS Certifications**
+- AWS Certified Solutions Architect (Em preparação)
+- AWS Certified Data Engineer (Em preparação)
+
+### 📚 **Conhecimentos Avançados**
+- **Data Engineering**: Apache Airflow, dbt, Spark
+- **Streaming**: Kinesis, Kafka, Event-driven architectures
+- **Data Warehousing**: Snowflake, Redshift, BigQuery
+- **Testing**: pytest, TDD, Quality Engineering
+- **DevOps**: GitHub Actions, Docker, Terraform
 
 ---
 
