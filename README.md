@@ -73,6 +73,16 @@ Sou movido por desafios de transformar grandes volumes de dados em insights estr
 - 📐 **Modelagem dimensional** (Star Schema) e testes integrados.
 - 📈 **Análises de negócio** para vendas de concessionárias.
 
+### 🐳 Docker Project
+> Repositório educacional completo de Docker e containerização
+
+**Stack**: Docker • Docker Compose • Flask • Node.js • React • MySQL • AWS ECR • AWS EC2
+
+- 📱 Sistema de cadastro full-stack com Flask + MySQL e interface web responsiva.
+- ⚛️ Aplicação React moderna com backend Node.js e orquestração completa.
+- ☁️ Deploy automatizado em AWS EC2 com integração ECR e scripts de CI/CD.
+- 🔧 Múltiplos projetos práticos desde conceitos básicos até implementações avançadas em produção.
+
 ---
 
 ## 🎓 Certificações & Conhecimentos
