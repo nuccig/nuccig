@@ -73,7 +73,7 @@ Sou movido por desafios de transformar grandes volumes de dados em insights estr
 - 📐 **Modelagem dimensional** (Star Schema) e testes integrados.
 - 📈 **Análises de negócio** para vendas de concessionárias.
 
-### 🐳 Docker Project
+### 🐳 [Docker Project](https://github.com/nuccig/docker-project)
 > Repositório educacional completo de Docker e containerização
 
 **Stack**: Docker • Docker Compose • Flask • Node.js • React • MySQL • AWS ECR • AWS EC2
