@@ -55,6 +55,27 @@ Sou movido por desafios de transformar grandes volumes de dados em insights estr
 
 ## 🏗️ Projetos em Destaque
 
+### 📊 [E-commerce Data Analysis Pipeline](https://github.com/nuccig/ecommerce-analysis)
+> **Pipeline completo de análise de dados para e-commerce com arquitetura Medallion (Bronze, Silver, Gold) na AWS**
+
+**Stack:** Apache Airflow • AWS Glue • Amazon S3 • Amazon Athena • PySpark • Terraform • GitHub Actions
+
+- 🏗️ **Arquitetura Medallion** com camadas Bronze, Silver e Gold para processamento escalável.
+- ⚡ **Orquestração automatizada** com Airflow e transformações PySpark via AWS Glue.
+- ☁️ **Infraestrutura como código** totalmente automatizada com Terraform.
+- 📈 **Data Lake moderno** com S3 e consultas analíticas via Athena.
+
+### 🛍️ [Fake E-commerce API](https://github.com/nuccig/fake-ecommerce-api)
+> **API REST pública com infraestrutura AWS automatizada via Terraform e dados fictícios dinâmicos para estudos e desenvolvimento**
+
+**Stack:** FastAPI • MySQL • AWS (EC2, RDS, Lambda, API Gateway) • Docker • GitHub Actions • Terraform
+
+- 🏗️ **Infraestrutura como código** completa na AWS com VPC, EC2, RDS e API Gateway.
+- 🤖 **Atualização automática** de dados fictícios via Lambda executada diariamente.
+- 🚀 **Pipeline de CI/CD** com GitHub Actions e deploy automatizado.
+- 📚 **API pública disponível** em `https://api.gustavonucci.dev/ecomm/v1` para uso em projetos de estudo.
+- ⚡ **Documentação disponível** em `https://api.gustavonucci.dev/docs`.
+
 ### 🌐 [Real-Time Analytics Project](https://github.com/nuccig/real-time-analytics-project)
 > **Sistema de análise em tempo real de dados meteorológicos**
 
@@ -73,16 +94,6 @@ Sou movido por desafios de transformar grandes volumes de dados em insights estr
 - 📐 **Modelagem dimensional** (Star Schema) e testes integrados.
 - 📈 **Análises de negócio** para vendas de concessionárias.
 
-### 🐳 [Docker Project](https://github.com/nuccig/docker-project)
-> Repositório educacional completo de Docker e containerização
-
-**Stack**: Docker • Docker Compose • Flask • Node.js • React • MySQL • AWS ECR • AWS EC2
-
-- 📱 Sistema de cadastro full-stack com Flask + MySQL e interface web responsiva.
-- ⚛️ Aplicação React moderna com backend Node.js e orquestração completa.
-- ☁️ Deploy automatizado em AWS EC2 com integração ECR e scripts de CI/CD.
-- 🔧 Múltiplos projetos práticos desde conceitos básicos até implementações avançadas em produção.
-
 ---
 
 ## 🎓 Certificações & Conhecimentos
@@ -93,9 +104,7 @@ Sou movido por desafios de transformar grandes volumes de dados em insights estr
 
 ### 📚 **Conhecimentos Avançados**
 - **Data Engineering**: Apache Airflow, dbt, Spark
-- **Streaming**: Kinesis, Kafka, Event-driven architectures
 - **Data Warehousing**: Snowflake, Redshift, BigQuery
-- **Testing**: pytest, TDD, Quality Engineering
 - **DevOps**: GitHub Actions, Docker, Terraform
 
 ---
